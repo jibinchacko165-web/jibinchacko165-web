@@ -1,43 +1,55 @@
-# Hi there, I'm Jibin 👋  
+<!-- Professional GitHub Profile README.md -->
 
-🚀 **Aspiring Computer Scientist | Developer | Tech Enthusiast**  
+<h1 align="center">Hi 👋, I'm Jibin Chacko</h1>
+<h3 align="center">💻 MCA | Tech Enthusiast</h3>
 
-Welcome to my corner of GitHub!  
-I’m passionate about building projects that merge creativity with technology, solving problems, and constantly learning along the way.  
-
----
-
-## 🌟 About Me
-- 🎓 Currently pursuing **MSc in Computer Science**
-- 💡 Exploring **Full-Stack Development, AI, and Cloud Computing**
-- 🛠️ Love working with **Python, Java, JavaScript, and SQL**
-- 🌱 Currently learning **DevOps & Machine Learning**
-- ⚡ Fun fact: I enjoy late-night coding with music 🎶
-
----
-
-## 🔧 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,linux,docker" />
+  <img src="https://komarev.com/ghpvc/?username=jibinchacko&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/jibinchacko?tab=followers">
+    <img src="https://img.shields.io/github/followers/jibinchacko?label=Followers&style=social" alt="followers" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me  
+- 🎓 Master of Computer Applications (MCA)  
+- 💡 Passionate about **Software Development, Artificial Intelligence, and Cloud Technologies**  
+- 🛠 Skilled in **Python, Java, JavaScript, SQL, and React**  
+- 🌱 Currently learning **Machine Learning and DevOps Practices**  
+- 🎯 Focused on building scalable, maintainable, and efficient applications  
+- 💬 Ask me about **Web Development, API Design, or Database Management**  
+
+---
+
+## ⚙️ Technical Skills  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,html,css,tailwind,bootstrap,mysql,mongodb,git,github,linux,docker,vscode&theme=light" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Analytics  
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jibinchacko&show_icons=true&theme=default&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jibinchacko&theme=default&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
 ---
 
-✨ *"Code is like art — every line tells a story."*  
+## 🧩 Featured Projects  
+- 🔹 [**Smart Traffic Monitoring System**](https://github.com/jibinchacko/smart-traffic-monitoring) — AI-powered system for traffic analysis and safety  
+- 🔹 [**Portfolio Website**](https://github.com/jibinchacko/portfolio) — Personal portfolio built using React and Tailwind CSS  
+- 🔹 [**Student Management System**](https://github.com/jibinchacko/student-management) — Full-stack CRUD application for academic record management  
+
+---
+
+## 🏆 Certifications & Achievements  
+- ✅ Completed courses in **Cloud Computing & Machine Learning**  
+- 🥇 Participated in **Hackathons** and **Academic Tech Events**  
+- 📜 Built several academic and personal **open-source projects**
+
+---
+
+## 🌐 Connect With Me  
+<p a
