@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jibin Chacko</h1>
-<h3 align="center">💻 Master of Computer Applications (MCA) Graduate | Full-Stack Developer</h3>
-
+<h3 align="center">💻 Master of Computer Applications (MCA) Graduate</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jibinchacko&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://github.com/jibinchacko?tab=followers">
