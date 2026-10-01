@@ -1,186 +1,171 @@
-```md
 <h1 align="center">Hi 👋, I'm Jibin Chacko</h1>
 
-<h3 align="center">MCA Graduate | Full Stack Developer | Python Django Developer | React Developer | Android Developer</h3>
+<h3 align="center">MCA Graduate | Python Django Developer | Full Stack Developer | Android Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jibinchacko&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/jibinchacko?label=Followers&style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/jibinchacko?affiliations=OWNER&style=social" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=jibinchacko165-web&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/jibinchacko165-web?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 **Master of Computer Applications (MCA) Graduate**
 
 I am a passionate software developer with a strong foundation in software engineering, web development, networking, database management, and modern technologies. I enjoy building secure, scalable, and user-friendly applications while continuously improving my technical knowledge and problem-solving skills.
 
-- 💻 Passionate about Software Development
-- 🌐 Interested in Networking & Cyber Security
-- ☁️ Exploring Cloud Computing
-- 📱 Android Application Developer
-- 🚀 Enthusiastic about Modern Web Technologies
-- 📚 Lifelong Learner
+* 💻 Passionate about Software Development
+* 🌐 Interested in Networking and Cyber Security
+* ☁️ Exploring Cloud Computing
+* 📱 Interested in Android Application Development
+* 🐍 Python and Django Development
+* 🗄️ Database Management
+* 🚀 Interested in Modern Web Technologies
+* 📚 Continuous Learner
 
 ---
 
-# 🚀 Areas of Interest
+## 🚀 Areas of Interest
 
-- 🌐 Networking
-- 🔐 Cyber Security
-- ☁️ Cloud Computing
-- 💻 Full Stack Development
-- 📱 Android Application Development
-- 🗄️ Database Management
-- 🔗 REST API Development
-- ⚙️ Software Engineering
+* 🌐 Networking
+* 🔐 Cyber Security
+* ☁️ Cloud Computing
+* 💻 Full Stack Development
+* 🐍 Python & Django Development
+* 📱 Android Application Development
+* 🗄️ Database Management
+* 🔗 REST API Development
+* ⚙️ Software Engineering
 
 ---
 
-# 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" alt="Programming Languages" />
 </p>
 
 ---
 
-# 🎨 Frontend Development
+## 🎨 Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" alt="Frontend Technologies" />
 </p>
 
 ---
 
-# ⚙️ Backend Development
+## ⚙️ Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=django" alt="Backend Technologies" />
 </p>
 
 ---
 
-# 🗄️ Database
+## 🗄️ Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Technologies" />
 </p>
 
 ---
 
-# 📱 Mobile Development
+## 📱 Mobile Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=androidstudio" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Development" />
 </p>
 
 ---
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws" alt="Tools and Technologies" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jibinchacko165-web&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibinchacko165-web&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jibinchacko165-web&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jibinchacko165-web&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jibinchacko165-web&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* 🌐 Networking
+* 🐍 Advanced Python & Django
+* ⚛️ React Ecosystem
+* ☁️ Cloud Deployment
+* 🐳 Docker
+* 🤖 AI Integration
+* 🔐 Cyber Security
+
+---
+
+## 🤝 Soft Skills
+
+* Problem Solving
+* Team Collaboration
+* Communication
+* Critical Thinking
+* Adaptability
+* Time Management
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jibinchacko&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibinchacko&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jibinchacko&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jibinchacko&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jibinchacko&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- 🌐 Networking
-- 🐍 Advanced Python Django
-- ⚛️ React Ecosystem
-- ☁️ Cloud Deployment
-- 🐳 Docker
-- 🤖 AI Integration
-- 🔐 Cyber Security
-
----
-
-# 🤝 Soft Skills
-
-- Problem Solving
-- Team Collaboration
-- Communication
-- Critical Thinking
-- Adaptability
-- Time Management
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/your-linkedin-profile">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/jibinchacko">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/jibinchacko165-web">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </p>
 
 ---
 
-# 💡 Developer Quote
+## 💡 Developer Quote
 
-<div align="center">
+<p align="center">
 
-### *"Great software is built through continuous learning, clean code, and a passion for solving real-world problems."*
+<i>"Great software is built through continuous learning, clean code, and a passion for solving real-world problems."</i>
 
-</div>
+</p>
 
 ---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" alt="Footer" />
 </p>
-```
